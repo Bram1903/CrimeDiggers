@@ -48,6 +48,10 @@ color-code each suspect’s route. Adjusting the time slider reveals where and w
 - **Suspect 1** (`GPS 1.gpx`): **Blue Path**
 - **Suspect 2** (`GPS 2.gpx`): **Red Path**
 
+### Visualizing the Paths
+
+![Visualized Routes](./images/Visualised%20Routes.png)
+
 ### Visual Inspection Steps
 
 1. **Overlay** the paths.
